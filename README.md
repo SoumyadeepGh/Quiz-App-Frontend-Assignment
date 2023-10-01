@@ -1,6 +1,6 @@
-# **Trivia App**
+# **Quiz App**
 
-Do you love answering trivia questions? This `Trivia App` will generate some questions about a bunch of random topic from [Open Trivia DB](https://opentdb.com/ "Open Trivia DB"). You can submit your answer and get the result!
+Do you love answering trivia questions? This `Quiz App` will generate some questions about a bunch of random topic from [Open Trivia DB](https://opentdb.com/ "Open Trivia DB"). You can submit your answer and get the result!
 
 ## Table of Contents
 1. [ Why Use This App. ](#why)
@@ -15,10 +15,10 @@ Do you love answering trivia questions? This `Trivia App` will generate some que
 
 <a name="why"></a>
 ## Why Use This App
-- Trivia App is a fun and interactive way to test you trivia knowledge! 
+- Quiz App is a fun and interactive way to test your trivia knowledge! 
 - Unlike other games, this app has a simple installation process. You can be playing within minutes!
 - There are only a few straighforward instructions to play the game.
-- Trivia App offers questions across 6 different categories instead of just one
+- Quiz App offers questions across 6 different categories instead of just one
 
 
 <a name="topics"></a>
@@ -37,7 +37,7 @@ The questions can be about:
 If you would like to contribute to this app:
 1. Clone the repository
 ```
-https://github.com/saminyasar004/trivia-app.git
+https://github.com/SoumyadeepGh/Quiz-App-Frontend-Assignment.git
 ```
 2. Double click on the index.html file in your local file selector to open the game in a browser
 3. Enjoy the Game!
@@ -49,26 +49,10 @@ https://github.com/saminyasar004/trivia-app.git
 3. Review your final score at the end
 
 Notes: 
-- You can refresh the page to get a new set of questions from a different category
+- You can click on restart button to get a new set of questions from a different category
 - You can view how many questions you have gotten right and wrong in the upper right hand corner
 - You can view the number of the question you are on on the upper left hand corner
 - Be sure to answer the questions before the blue timer bar finishes
-
-Here is a preview picture of the app!
-![Design preview for the Quize App](./img/preview.jpg)
-
-<a name="badge"></a>
-## My Other Platforms
-
-[![Website](https://img.shields.io/website?label=saminyasar%20🚀&name=hello&style=flat&url=https://saminyasar.netlify.app/)](https://saminyasar.netlify.app/)
-[![Facebook Follow](https://img.shields.io/badge/Facebook-Follow-brightgreen)](https://www.facebook.com/saminyasar004/)
-[![Facebook Page](https://img.shields.io/badge/Facebook-Page-brightgreen)](https://www.facebook.com/saminyasar04/)
-[![Instagram Follow](https://img.shields.io/badge/Instagram-Follow-brightgreen)](https://instagram.com/saminyasar004/)
-[![Twitter Follow](https://img.shields.io/badge/Twitter-Follow-brightgreen)](https://twitter.com/saminyasar004/)
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Questions-brightgreen)](https://stackoverflow.com/users/14735945/samin-yasar)
-[![Github Follow](https://img.shields.io/github/followers/saminyasar004?label=saminyasar004&style=social)](https://github.com/saminyasar004/)
-
-
 
 <a name="langs"></a>
 ## Languages and Skills
@@ -88,19 +72,3 @@ Here are some of the languages and skills I used:
 Here are some helpful links for troubshooting and errors with React
 - https://create-react-app.dev/docs/troubleshooting/ 
 - https://legacy.reactjs.org/docs/error-boundaries.html 
-
-
-<a name="contributors"></a>
-## Contributors
-<table id = 'team'>
-<tr>
-<td id = 'saminyasar004'>
-<a href ='https://github.com/saminyasar004'>
-<img src = 'https://github.com/saminyasar004.png' width = '140px;'>
-</a>
-<h4 align= 'center'><a href = 'https://github.com/saminyasar004'>Samin Yasar</a><h4>
-
-
-
-
-### Happy Coding 🚀
