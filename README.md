@@ -65,7 +65,7 @@ Here are some of the languages and skills I used:
 <a name="live"></a>
 ## Live Preview
 
-[Trivia App](https://triviaapp.vercel.app/ "Trivia App")
+[Quiz App](https://quiz-app-two-mocha.vercel.app)
 
 <a name="links"></a>
 ## Helpful Links for React
